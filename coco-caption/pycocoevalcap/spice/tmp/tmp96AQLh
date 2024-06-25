@@ -1,0 +1,1302 @@
+[
+  {
+    "image_id": 1369, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a man in a wetsuit with a surfboard standing on a beach", 
+      "this is an image of a man with a surfboard looking at the ocean", 
+      "rear view of surfboard holding man standing on beach", 
+      "a person with a surfboard stands at the water", 
+      "a man is holding a surfboard and staring out into the ocean"
+    ]
+  }, 
+  {
+    "image_id": 5754, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a box of donuts of different colors and varieties", 
+      "a close up of a box of doughnuts", 
+      "a box is full of a variety of different donuts", 
+      "a box containing ten different kids of doughnuts", 
+      "a box filled with lots of different flavored donuts"
+    ]
+  }, 
+  {
+    "image_id": 9426, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a small plane flying through a cloudy blue sky", 
+      "red and white small plane on partially cloudy day", 
+      "a red and white biplane in a blue cloudy sky", 
+      "a plane that is flying in the air", 
+      "a small lightweight airplane flying through the sky"
+    ]
+  }, 
+  {
+    "image_id": 15113, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a bird that is on a tree limb", 
+      "a bird with blue feathers in a tree at the zoo", 
+      "a bird in a tree in a cage", 
+      "beautiful unusual bird inside of a bird santuary", 
+      "a white headed bird perched in a tree in an enclosure"
+    ]
+  }, 
+  {
+    "image_id": 29913, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a bicycle is lying on the sidewalk beside a fire hydrant", 
+      "two eyes painted on a fire hydrant make it look more festive", 
+      "a fire hydrant with a pair of eye stickers making a face on it", 
+      "the fire hydrant on the side of the road has eyes painted on it", 
+      "a fire hydrant in which someone put two eyes on it"
+    ]
+  }, 
+  {
+    "image_id": 39956, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a messy room with door and bed and chair", 
+      "a bedroom in an old house that is being renovated", 
+      "view of a very messy bedroom with boxes and bags covering the floor", 
+      "a messy bed room a bed a chair and boxes", 
+      "a messy bedroom has one red brick wall"
+    ]
+  }, 
+  {
+    "image_id": 40102, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "two giraffe standing next to each other on a grassy field", 
+      "two giraffes stroll past each other near a bush", 
+      "two giraffes standing near trees in a grassy area", 
+      "two giraffes rub their necks together as they stand by the trees in the sunlight", 
+      "two giraffes crossing paths on a green and grassy field"
+    ]
+  }, 
+  {
+    "image_id": 41369, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a person riding down a sidewalk on a skateboard", 
+      "a person riding on a skateboard on a brick sidewalk", 
+      "person on skateboard on sidewalk passing newspaper boxes", 
+      "a person skateboarding on the side of the road", 
+      "a young person is skateboarding on a side of the street"
+    ]
+  }, 
+  {
+    "image_id": 52759, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "an airplane sits on the tarmac of an airport with a disconnected boarding gate", 
+      "plane boarding passengers while at a fancy airport", 
+      "a plane sitting on a runway getting ready to be emptied", 
+      "this is a airplane on the runway of the airport", 
+      "a plan parked on the cement near a terminal"
+    ]
+  }, 
+  {
+    "image_id": 54277, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a person is seen using a snowboard on the packed snow", 
+      "a boy on a snowboard sliding on a slope", 
+      "a man riding down a slope on a snowboard", 
+      "a man skis down a snowy hill wearing a blue hat and jacket", 
+      "a man riding a snowboard on top of snow covered ground"
+    ]
+  }, 
+  {
+    "image_id": 62060, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "some people stand together near a lake", 
+      "a picture of some people playing with a frisbee", 
+      "five people stand on a shoreline with woods in the background", 
+      "a group of kids are standing in a circular fashion to play catch beside a waterfront", 
+      "the friends are on the beach at an early hour"
+    ]
+  }, 
+  {
+    "image_id": 62151, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "horses stand and drink from pond water near the road", 
+      "horses near a body of water with a sky background", 
+      "horses behind a fence near a body of water", 
+      "horses grazing in a muddy portion of a flooded field", 
+      "five horses next to a body of water behind a fence"
+    ]
+  }, 
+  {
+    "image_id": 64822, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "the clock on the building is in the shape of a coffee cup", 
+      "a large white blue and red clock shaped like a cup", 
+      "a clock is shaped like a coffee mug", 
+      "a clock attached to a building is shaped like a coffee cup", 
+      "a cock on the side of a giant cup"
+    ]
+  }, 
+  {
+    "image_id": 73830, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a herd of giraffe standing next to each other on a field", 
+      "some giraffes are walking around in some dirt and grass", 
+      "a giraffe looks towards the camera in front of other giraffes and zebras", 
+      "a giraffe turns away from the pack to look at the camera", 
+      "a group of giraffes and zebras in a wildlife exhibit"
+    ]
+  }, 
+  {
+    "image_id": 74331, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "this is a case full of yellow bananas", 
+      "bananas a tightly packed and boxed for delivery to the market", 
+      "a bunch of bananas are packaged up in boxes", 
+      "bananas packed in cardboard box covered in plastic", 
+      "an unopened box full of perfectly ripe bananas"
+    ]
+  }, 
+  {
+    "image_id": 78371, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a small airplane taking off from an airport runway", 
+      "a curtiss p-40 warhawk taxis along a runway", 
+      "a small airplane that is getting ready to take off from the runway", 
+      "a small air plane getting ready to take off", 
+      "an airplane is about to fly into the sky"
+    ]
+  }, 
+  {
+    "image_id": 89668, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a bunch of cows grazing in a dry field together", 
+      "cows wandering in a dry grass filled meadow", 
+      "brown and black cows in grassy field with trees in background", 
+      "black and brown cows are grazing in tall grass", 
+      "cows are walking through tall grass near many trees"
+    ]
+  }, 
+  {
+    "image_id": 95022, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a bird with red eyes perched on top of a tree branch", 
+      "a grey and white bird with red feet and eyes perches on a branch", 
+      "a bird with a pink eye is sitting on a branch in the woods", 
+      "a black and white bird with red eyes sitting on a tree branch", 
+      "a bird with red eyes and claws is perched on a branch"
+    ]
+  }, 
+  {
+    "image_id": 102912, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a couple of gray elephants standing next to each other in a wire cage", 
+      "a couple of elephants touch their trunks together", 
+      "two elephants at a zoo with their trunks touching", 
+      "some elephants are touching each other in the zoo", 
+      "two elephants facing each other touching trunks in an enclosure"
+    ]
+  }, 
+  {
+    "image_id": 103579, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a woman throwing a frisbee as a child looks on", 
+      "a woman and girl in park playing with frisbee", 
+      "a woman and child playing frisbee in a grassy area", 
+      "a person on a field throwing a frisbee by a kid", 
+      "a woman and a little girl playing with a frisbee in the sun on a green lawn"
+    ]
+  }, 
+  {
+    "image_id": 104025, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "person riding on the back of a horse on a gravel road", 
+      "a person riding a horse down a trail with rocks around it", 
+      "a person riding a donkey travels between two mountains", 
+      "a man travels down a path in the mountains", 
+      "a person in a black top riding a horse and some hills and rocks"
+    ]
+  }, 
+  {
+    "image_id": 109092, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a man holding a sausage dog and looking at the sausage dog", 
+      "a man looks at a hot dog he is eating", 
+      "a man is eating a hot dog while wearing a suit", 
+      "a man holds up a partially eaten hotdog", 
+      "a man in a suit stares at a chili dog with cheese"
+    ]
+  }, 
+  {
+    "image_id": 117407, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "this cat is sitting on a porch near a tire", 
+      "a cat with large eyes sitting on the side of the dock", 
+      "a small cat is sitting on the wooden beam", 
+      "a brown striped cat looks at the camera", 
+      "a brown and white cat standing on wooden ledge ned to a building"
+    ]
+  }, 
+  {
+    "image_id": 124629, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "an older woman standing next to two children", 
+      "kids and an old woman playing in the street", 
+      "a lady and two children in the street playing with a tennis raquet", 
+      "two young girls playing together tennis together outside", 
+      "children are playing with an old woman in the street"
+    ]
+  }, 
+  {
+    "image_id": 125997, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a big billboard is painted onto the side of a brick building", 
+      "a large blue sign with white lettering adorns the concrete wall", 
+      "a blue sign reminds people to live life", 
+      "a motivational sign on a brick wall by a yellow door", 
+      "a painting on the side of a building"
+    ]
+  }, 
+  {
+    "image_id": 128939, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a car is stopped in the street for people to cross", 
+      "a white car is pulled up and stopped at a line", 
+      "a car at an intersection while a man is crossing the street", 
+      "a silver car under a signal light that is green with a man in the crosswalk", 
+      "a car that is sitting near a green street light"
+    ]
+  }, 
+  {
+    "image_id": 129001, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a bath tub sitting next to a sink in a bathroom", 
+      "the bathroom is clean and ready for us to use", 
+      "a bath tub sitting next to a sink", 
+      "a bathroom that has a shower curtain over a bathtub", 
+      "a bathroom with multicolored tile bathtub and pedestal sink"
+    ]
+  }, 
+  {
+    "image_id": 136501, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a baseball player with one leg kicked up preparing to throw a ball", 
+      "a baseball player winding up for a pitch", 
+      "a baseball player prepares to throw the ball", 
+      "a man is leaning back to throw a ball", 
+      "a male baseball player is preparing to throw the ball"
+    ]
+  }, 
+  {
+    "image_id": 143931, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a political candidate advertisement on the side of a coach bus", 
+      "here is massachusettes candidate scott brown 's campaign trailer", 
+      "a large bus with a political ad on the side of it", 
+      "a tour bus with advertisement on the side of it", 
+      "a large campaign trailer parked in a parking lot"
+    ]
+  }, 
+  {
+    "image_id": 144053, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a street sign that reads broadway on a traffic light", 
+      "the sign for broadway street stands in front of an advertisement board in the city", 
+      "the street sign at the intersection of broadway and 7th avenue is the star of this picture", 
+      "street signs at a busy intersection with surveillance", 
+      "an intersection has a nypd security camera sign on a post"
+    ]
+  }, 
+  {
+    "image_id": 153656, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "two toothbrushes and a tube of toothpaste are in a cup", 
+      "a coffee cup with a couple of tooth brushes and a tube of tooth paste", 
+      "miniature electric toothbrushes and toothpaste inside a cup", 
+      "electric toothbrushes and toothpaste standing in a coffee cup", 
+      "two toothbrushes and a tube of toothpaste in a cup"
+    ]
+  }, 
+  {
+    "image_id": 173383, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a two layer cake sitting on top of a table", 
+      "a two layered cake sits on a table top", 
+      "the cake is prepared and ready to be eaten", 
+      "a white boxy birthday cake with red flowers and blue accents on a decorated table with gray cover and candles", 
+      "a two layer cake sitting on a table near candles"
+    ]
+  }, 
+  {
+    "image_id": 173574, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "that looks like a wall mural in the background of this photo with a lot of sheet", 
+      "a flock of sheep who are standing a top a mountain", 
+      "a huge heard of sheep are all scattered together", 
+      "there is a gathering of sheep in the field", 
+      "a group of white sheep in grassy area next to trees"
+    ]
+  }, 
+  {
+    "image_id": 176649, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a city street sign warning of a hill in different languages", 
+      "closeup of two street signs with various languages on them", 
+      "a street sign mounted on a vertical pole", 
+      "a triangle sign with an english and foreign warning", 
+      "two street signs attached to the same pole in two different languages"
+    ]
+  }, 
+  {
+    "image_id": 181449, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a black kitten lays on her side beside remote controls", 
+      "a black kitten laying down next to two remote controls", 
+      "a black cat is lying next to a remote control", 
+      "a couple of phones are on a blanket next to a black kitten", 
+      "a kitten laying on a bed next to some phones"
+    ]
+  }, 
+  {
+    "image_id": 183757, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a cat sitting on top of a red boat next to two dogs", 
+      "a white cat sits on a large red object by a river", 
+      "a cat and two dogs rest by a pond", 
+      "two dogs and a cat on a boat at edge of water", 
+      "a cat and some dogs sunbathing by the water"
+    ]
+  }, 
+  {
+    "image_id": 184613, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a child holding a flowered umbrella and petting a yak", 
+      "a young man holding an umbrella next to a herd of cattle", 
+      "a young boy barefoot holding an umbrella touching the horn of a cow", 
+      "a young boy with an umbrella who is touching the horn of a cow", 
+      "a boy holding an umbrella while standing next to livestock"
+    ]
+  }, 
+  {
+    "image_id": 191738, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a cat lays down on a stuffed animal", 
+      "a cat sitting in a chair that looks like an elephant", 
+      "a cat sitting on top of a stuffed animal", 
+      "a spoiled cat is sitting on his own personal chair", 
+      "a fat cat sits on a stuffed animal"
+    ]
+  }, 
+  {
+    "image_id": 207056, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a group of elephants bathing and playing in the water", 
+      "a large group of elephants standing in some water", 
+      "elephants swimming in a shallow lake on a hot day", 
+      "several elephants taking a bath in the river", 
+      "a couple of elephants are standing in the water"
+    ]
+  }, 
+  {
+    "image_id": 219578, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a dog and cat lying together on an orange couch", 
+      "a dog and a cat curled up together on a couch", 
+      "a cat and dog napping together on the couch", 
+      "a dog and cat are sleeping together on an orange couch", 
+      "a cat and a dog rest together on a hideous orange couch"
+    ]
+  }, 
+  {
+    "image_id": 231163, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "train stopped at a depot with people milling about", 
+      "passengers boarding a blue train at a station", 
+      "a train parked at an outdoor train terminal", 
+      "a man taking a photograph of a commuter train at an outdoor station", 
+      "the people are waiting at the train station"
+    ]
+  }, 
+  {
+    "image_id": 241876, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a cat on the lid of a toilet looking perturbed", 
+      "a blurry picture of a cat standing on a toilet", 
+      "a cat standing on the toilet bowl seat", 
+      "a cat is perched on the top of a toilet seat in the bathroom", 
+      "a cat standing on a toilet with an open lid"
+    ]
+  }, 
+  {
+    "image_id": 242139, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a building shines in the clear sky as cars drive underneath", 
+      "a street scene at an intersection with tall skyscrapers in the background", 
+      "large glass building shining from sunlight on it", 
+      "a city with sky scrapers and cars on it", 
+      "large modern buildings on a busy street"
+    ]
+  }, 
+  {
+    "image_id": 244575, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "two horses in a wooded area amongst bushes", 
+      "two horses are looking towards the camera while standing in the woods", 
+      "two animals walking through high grass in the woods", 
+      "two horses gaze out from among the trees", 
+      "two horses walking through the woods together"
+    ]
+  }, 
+  {
+    "image_id": 268556, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a woman is riding a motorcycle down the street", 
+      "a woman on a motorcycle wearing a bag and passing a car", 
+      "a woman on a motor cycle on a city street", 
+      "a woman on a motorcycle in the middle of the street", 
+      "a woman sits on her motorcycle in the street"
+    ]
+  }, 
+  {
+    "image_id": 280819, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a lady sitting at an enormous dining table with lots of food", 
+      "a woman with eye glasses sitting at a table covered with food", 
+      "several plates of food on a dining table", 
+      "a guest looks over the plates of fruit on the table", 
+      "a woman standing near a table with plates covered in food"
+    ]
+  }, 
+  {
+    "image_id": 283210, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "two brown dogs in grassy area biting each other", 
+      "two dogs playing jumping on each other and biting", 
+      "two similar sized dogs fighting near an empty chair", 
+      "two brown dogs involved in fight against each other", 
+      "two brown dogs are playing on the dirt"
+    ]
+  }, 
+  {
+    "image_id": 286994, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "some elephants and one is by some water", 
+      "a elephant drinks from a stream with several other elephants walking in the background", 
+      "one elephant standing away from the rest of the herd drinking water", 
+      "an elephant drinking water while the rest of the herd is walking in dry grass", 
+      "a group of elephants with water in front and trees behind"
+    ]
+  }, 
+  {
+    "image_id": 296303, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a grasshopper in a cage eating a slice of carrot", 
+      "a close up of a large bug eating something", 
+      "a grasshopper in a cage eating something that is orange colored", 
+      "a giant cricket in a cage eating an orange slice", 
+      "an insect is chewing some carrot inside a wooden cage"
+    ]
+  }, 
+  {
+    "image_id": 304305, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a mother and son elephant walking through a green grass field", 
+      "a pair of elephants traveling on a grassy field", 
+      "an adult elephant and a baby elephant walking together", 
+      "a adult elephant with a baby elephant walking besides", 
+      "a mother elephant guiding her child across a field"
+    ]
+  }, 
+  {
+    "image_id": 310391, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a car with some surfboards in a field", 
+      "the old fashioned car is carrying some retro surfboards", 
+      "an old car with surfboards on the top", 
+      "an old vehicle painted light blue and dark blue", 
+      "an old station wagon with a surfboard on top of it"
+    ]
+  }, 
+  {
+    "image_id": 317560, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a man wearing a hat and necklace made of bananas", 
+      "a man wearing a necklace and hat made of bananas", 
+      "a person with a bananas in a costume laughing", 
+      "a person dressed in costume wearing a banana hat and a banana necklace", 
+      "a performer poses joyously in a banana costume"
+    ]
+  }, 
+  {
+    "image_id": 317595, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "three guys sitting down eating sandwiches and smiling", 
+      "three men eating sandwiches at a corner table", 
+      "two young men one old enjoying a meal at a restaurant", 
+      "three men all eating sub sandwiches at a restaurant", 
+      "three men are sitting in a restaurant eating sandwiches"
+    ]
+  }, 
+  {
+    "image_id": 318671, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a horse drawn trolly on a track the trolly is full of people", 
+      "a horse stops for a rest before it continues to pull a street car", 
+      "a horse drawn trolley sitting in the middle of a street", 
+      "a horse is pulling a troller full of people", 
+      "people riding on a horse trolley in the street"
+    ]
+  }, 
+  {
+    "image_id": 319865, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a brown and white cat is in a suitcase", 
+      "a cat is sleeping in a suitcase with folded clothing", 
+      "a cat sitting inside a small packed suitcase", 
+      "a furry cat sleeping inside a packed suitcase", 
+      "the cat is laying in the packed suitcase"
+    ]
+  }, 
+  {
+    "image_id": 321107, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a woman rides a bicycle on a road next to the median", 
+      "a girl is riding her bike down the street", 
+      "a lady riding her bicycle on the side of a street", 
+      "a person on a bike riding on a street", 
+      "a woman riding a bike down a street next to a divider"
+    ]
+  }, 
+  {
+    "image_id": 329486, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a passenger train crossing a bridge by the beach", 
+      "a red and blue train on a bridge during a cloudy day", 
+      "a train crossing a tressle near a body of water", 
+      "a red and blue train driving over a train overpass", 
+      "red train pulling four blue train cars behind it over a bridge"
+    ]
+  }, 
+  {
+    "image_id": 332654, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a yellow and blue fire hydrant sitting on a sidewalk", 
+      "a yellow and blue fire hydrant on the sidewalk", 
+      "a freeway sign states las vegas north in the background behind a yellow and blue fire hydrant", 
+      "a brightly colored fire hydrant sits beside a brightly colored curb", 
+      "a fire hydrant that is painted yellow and blue"
+    ]
+  }, 
+  {
+    "image_id": 339974, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a traffic signal sitting next to a street at night", 
+      "traffic light at night appearing very confusing", 
+      "the electronic stop sign glows brightly at night time", 
+      "a variety of traffic lights and road signs", 
+      "there is a street light with two green arrows in different directions"
+    ]
+  }, 
+  {
+    "image_id": 340559, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "there are two sinks next to two mirrors", 
+      "two very metallic sinks are shown as well as the mirrors above them", 
+      "a room with stainless steel equipment including sinks and mirrors", 
+      "two stainless steel sinks with mirrors and a fire extinguisher", 
+      "a photo of a bathroom made of steel"
+    ]
+  }, 
+  {
+    "image_id": 345998, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a trainer leads a girl on horseback to a field", 
+      "a little girl riding a horse next to another girl", 
+      "two girls walking down a pathway with a large horse", 
+      "a woman walks beside a horse while a girl rides", 
+      "child on a horse being led by a trainer"
+    ]
+  }, 
+  {
+    "image_id": 360772, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a toilet sitting in a bathroom next to a sink", 
+      "a toilet in a bathroom with green faded paint", 
+      "a bathroom with a gouged wall and wall socket with no panel", 
+      "the toilet is near the door in the bathroom", 
+      "the bathroom wall needs to be resurfaced and painted"
+    ]
+  }, 
+  {
+    "image_id": 364521, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a red helmet is on a yellow toilet in the dirt", 
+      "a yellow toilet with a red helmet on top of it", 
+      "a yellow toilet with a red helmet above it", 
+      "a toilet sitting in an outdoor area with a helmet resting on top of it", 
+      "an old toilet sits in dirt with a helmet on top"
+    ]
+  }, 
+  {
+    "image_id": 386912, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a person sitting at a desk with a keyboard and monitor", 
+      "a woman at her desk sits intently and happy", 
+      "a woman sitting at a desk in her work station", 
+      "the woman is working on her computer at the desk", 
+      "a woman is sitting in front of a desk"
+    ]
+  }, 
+  {
+    "image_id": 403013, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a narrow kitchen filled with appliances and cooking utensils", 
+      "a galley kitchen with cabinets and appliances on both sides", 
+      "a hallway leading into a white kitchen with appliances", 
+      "doorway view of a kitchen with a sink stove refrigerator and pantry", 
+      "the pantry door of the small kitchen is closed"
+    ]
+  }, 
+  {
+    "image_id": 403020, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a giraffe lying on the ground in a zoo pin", 
+      "a giraffe laying down on the dirt ground", 
+      "lone giraffe lying in dirt area of enclosure", 
+      "small giraffe sitting on the ground while the sun hits its body", 
+      "a giraffe laying down on top of a dirt field"
+    ]
+  }, 
+  {
+    "image_id": 404464, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "persons skating in the ice skating rink on the skateboard", 
+      "a snowboard sliding very gently across the snow in an enclosure", 
+      "a person on a snowboard getting ready for competition", 
+      "man on snowboard riding under metal roofed enclosed area", 
+      "a snowboarder practicing his moves at a snow facility"
+    ]
+  }, 
+  {
+    "image_id": 414679, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "two cows overlooking a mountain range and one is looking in the opposite direction of the other one", 
+      "two cows that are standing in the grass", 
+      "two marked cows stand upon mud and grass with tree filled hills in the background", 
+      "a couple of brown and white cows standing on top of a hill", 
+      "two cows are standing in a grassy area"
+    ]
+  }, 
+  {
+    "image_id": 427438, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a herd of zebras are in a dirt area near scrub brush", 
+      "a bunch of zebras are together in an open area", 
+      "a group of zebras standing beside each other in the desert", 
+      "a herd of zebra standing around in front of some shrubs", 
+      "a bunch of zebras standing around in an open field"
+    ]
+  }, 
+  {
+    "image_id": 431573, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a red fire hydrant is leaking onto a side walk", 
+      "a red fire hydrant gushing water onto a street", 
+      "a red fire hydrant pouring water onto a sidewalk", 
+      "a red fire hydrant opened and spilling water", 
+      "a red fire hydrant spouting water onto sidewalk with trees in background"
+    ]
+  }, 
+  {
+    "image_id": 443591, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a small herd of zebra walking on a lush green landscape", 
+      "three zebras walking through a grassland area together", 
+      "one zebra rests its head on the back of another zebra", 
+      "a zebra resting its head on another zebra", 
+      "a zebra resting its head on another zebra"
+    ]
+  }, 
+  {
+    "image_id": 453757, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a group of men playing a game of soccer on a field", 
+      "a man in a blue uniform falls down while kicking a soccer ball as his team mate someone from the opposite team run on", 
+      "three men are playing soccer one man is on the grown", 
+      "three men going after a soccer ball on the field", 
+      "soccer players are scrambling for the ball with one player down"
+    ]
+  }, 
+  {
+    "image_id": 453926, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a plate that has a dessert on it", 
+      "a chocolate and fudge dessert on layered pastry is on a red plate", 
+      "a stack of pancakes on a plate with creme and chocolate", 
+      "a red plate with some chocolate and whip cream desert", 
+      "a small cake is covered in frosting on a plate"
+    ]
+  }, 
+  {
+    "image_id": 458153, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a lone elephant is walking through a field", 
+      "an elephant is in some brown grass and some trees", 
+      "an elephant reaching for tall grass with its trunk", 
+      "a very big elephant in a field of tall grass", 
+      "an elephant sticking out its trunk in a grassy area"
+    ]
+  }, 
+  {
+    "image_id": 460347, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a bus traveling on a freeway next to other traffic", 
+      "a bus and other cars driving down a multi-laned street", 
+      "a white bus driving on a four lane road", 
+      "city bus next to traffic cones in the far right lane of a busy freeway", 
+      "a white with red striped bus drives down the slow lane on a freeway surrounded by several other cars"
+    ]
+  }, 
+  {
+    "image_id": 461953, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a long hot dog on a plate on a table", 
+      "a very long hot dog on a plastic plate", 
+      "a foot long hot dog on top of two buns", 
+      "long hot dog using two buns on paper plate", 
+      "a foot long hotdog on two regular buns on a styrofoam plate"
+    ]
+  }, 
+  {
+    "image_id": 462341, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "an older building with birds flying near it", 
+      "a church with a high spire and decorative roof tiles", 
+      "a large clock tower towering over a small city", 
+      "picture of a church and its tall steeple", 
+      "birds fly around a tall building with a clock"
+    ]
+  }, 
+  {
+    "image_id": 463633, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a red stop sign sitting in the middle of a street", 
+      "humorous graffiti is pictured on a stop sign", 
+      "a stop sign with graffiti about the red sox", 
+      "graffiti on a stop sign supporting the red sox", 
+      "a stop sign with words written on it with a black marker"
+    ]
+  }, 
+  {
+    "image_id": 466787, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a stack of banana 's sitting next to a pear and a pile of apples", 
+      "a plate of fruit that includes bananas pears and apples", 
+      "plate on the table covered with bananas apples and a pear", 
+      "a wooden table with a white plate of fresh fruit sitting on it", 
+      "an array of apples and bananas lay on a plate"
+    ]
+  }, 
+  {
+    "image_id": 468604, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "large elephant rubbing itself up against a large tree", 
+      "an elephant stands in the grass near a tree", 
+      "the large adult elephant is standing beside a large tree", 
+      "a captive elephant stands amid the branches of a tree in his park-like enclosure", 
+      "a elephant that is standing in the grass"
+    ]
+  }, 
+  {
+    "image_id": 472246, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a fork next to an apple orange and onion", 
+      "a close up of a fork an orange an apple and an onion", 
+      "a fork apple orange and onion lined up in a row", 
+      "a fork apple orange and onion sitting on a surface", 
+      "a fork an apple and orange and an onion sitting in a row"
+    ]
+  }, 
+  {
+    "image_id": 472621, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "an elegant bathroom features a tub sink mirror and decorations", 
+      "an old fashion above ground tub is shown with gold feet", 
+      "a lovely vintage-styled bathroom with a great claw-footed tub", 
+      "bathroom with a pedestal sink and claw foot bathtub", 
+      "a claw foot tub is in a large bathroom near a pedestal sink"
+    ]
+  }, 
+  {
+    "image_id": 476975, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a zebra standing next to an elephant next to some trees", 
+      "the elephant with the herd is stretching it 's trunk upwards near a tree", 
+      "a group of elephants feed in some trees", 
+      "several elephants eating leaves on trees at a zoo", 
+      "a herd of elephants eating from a grove of trees"
+    ]
+  }, 
+  {
+    "image_id": 480076, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a gray chair and a black chair sit in a room near a lamp", 
+      "a cat peek from between two sofa chairs", 
+      "cat sitting on a maroon couch behind a coffee table", 
+      "a large recliner sitting next to a table", 
+      "a cat is sitting in a recliner chair"
+    ]
+  }, 
+  {
+    "image_id": 489023, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a soccer player looks up at a soccer ball", 
+      "some men are playing soccer on a field with a blue ball", 
+      "a soccer game is in action as a player prepares to head but the ball", 
+      "man in an orange soccer jersey and white shorts looking up at a blue soccer ball", 
+      "a soccer player that is playing in a game"
+    ]
+  }, 
+  {
+    "image_id": 490923, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a young girl brushing her teeth with a tooth brush", 
+      "a young child smiles while brushing his teeth", 
+      "a little girl brushing her teeth with a blue toothbrush", 
+      "a young girl is using a blue toothbrush", 
+      "a girl with a toothbrush and toothpaste in her mouth"
+    ]
+  }, 
+  {
+    "image_id": 502737, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a person holding up a chocolate doughnut with a face drawn on it", 
+      "a man holding up what appears to be a chocolate desert", 
+      "a person holding up a tasty looking treat", 
+      "a person holding a cookie with icing that has one of it 's arms bitten off", 
+      "a person holds an oddly shaped cookie in front of the camera"
+    ]
+  }, 
+  {
+    "image_id": 505440, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a couple of giraffes that are standing in the grass", 
+      "two giraffes in a field near many trees", 
+      "two giraffes are grazing side by side but in opposite directions", 
+      "two giraffes are facing in opposite directions with their necks bent down", 
+      "a couple of giraffe standing next to each other"
+    ]
+  }, 
+  {
+    "image_id": 511204, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a person riding an elephant and carrying gas cylinders", 
+      "an elephant walking with two heave pails and and indian man on the top", 
+      "a nd elephant is carrying some red jugs", 
+      "a man riding on top of an elphant holding a stick with containers", 
+      "an elephant carries two tanks while being ridden"
+    ]
+  }, 
+  {
+    "image_id": 515445, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a group of people walking on top of a beach", 
+      "the people have surfboards and are on the beach", 
+      "surboarders are in the water and waiting on the shore", 
+      "surfers stand with surfboards on a beach for the early morning sunrise", 
+      "beach full of surfers inside and outside of the water"
+    ]
+  }, 
+  {
+    "image_id": 517822, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a kid playing with a frisbee in the yard", 
+      "a young bow throwing a frisbee on a lush green grass covered park", 
+      "a toddler with a frisbee in his hand", 
+      "a young toddler walks across the grass in a park", 
+      "a small child standing in a field of green grass playing with a frisbee"
+    ]
+  }, 
+  {
+    "image_id": 522778, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a woman videos a man cutting the cement around a street pole", 
+      "a construction worker using a jack hammer next to a woman holding a camera", 
+      "a man is working near a parking meter outside", 
+      "a man is operating a jackhammer near a parking meter", 
+      "a man with a jack hammer on the sidewalk next to a parking meter"
+    ]
+  }, 
+  {
+    "image_id": 544519, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "an asian child brushes their teeth with a blue toothbrush", 
+      "a child holds a toothbrush halfway out of their mouth while brushing their teeth", 
+      "a girl with a green shirt brushing her teeth with a blue toothbrush", 
+      "a young child brushes their teeth with a blue toothbrush", 
+      "a young girl who is brushing her teeth with a toothbrush"
+    ]
+  }, 
+  {
+    "image_id": 551952, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a white truck filled with motorcycle on it 's flatbed", 
+      "a vehicle is shown transporting a shipment of bicycles", 
+      "the truck is hauling a load of bicycles", 
+      "a white vehicle with a flatbed designed to carry multiple bicycles on it", 
+      "a white bike carrier sits with several bikes on the back"
+    ]
+  }, 
+  {
+    "image_id": 555705, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "two cats sitting on top of a pair of shoes", 
+      "two cats are outside and perched on someone 's sneakers", 
+      "two cats are sitting on a pair of shoes outdoors", 
+      "two striped cats lying with two sneakers on a ledge", 
+      "orange and brown cat sitting on top of white shoes"
+    ]
+  }, 
+  {
+    "image_id": 556616, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a row of parked cars sitting next to parking meters", 
+      "a row of cars parked on a street with parking meters", 
+      "a series of parking meters and cars are located next to each other", 
+      "a parking meter on a street by a car with traffic", 
+      "a parking meter on a street with cars"
+    ]
+  }, 
+  {
+    "image_id": 562150, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a little girl holding a kitten next to a blue fence", 
+      "girl in a tank top holding a kitten in her back yard", 
+      "a young girl is holding a small cat", 
+      "girl with a yellow shirt holding a small cat", 
+      "a girl smiles as she holds a kitty cat"
+    ]
+  }, 
+  {
+    "image_id": 562614, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a group of children running after a soccer ball", 
+      "four boys are on a grassy area near a white soccer ball", 
+      "three children having fun playing soccer on a soccer field", 
+      "children wearing team uniforms playing soccer in a grassy field", 
+      "kids chasing a soccer ball on the grass"
+    ]
+  }, 
+  {
+    "image_id": 569839, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a little girl sitting in the middle of a restaurant and smiling for picture", 
+      "a girl with a missing front tooth enjoys a hotdog", 
+      "a young child is sitting at a bar and eating", 
+      "there is a small girl sitting at the counter eating", 
+      "a young girl eating food at a restaurant"
+    ]
+  }, 
+  {
+    "image_id": 578210, 
+    "tests": [
+      "a a a a a a a a a a a a a a a a a a a a"
+    ], 
+    "refs": [
+      "a sheet cake sitting on top of a table with lit candles", 
+      "a birthday cake with candles and a cell phone", 
+      "someone lights the other candles on the cake", 
+      "a birthday cake with a cell phone on it is being lit", 
+      "an image of a 2nd year birthday cake"
+    ]
+  }
+]
